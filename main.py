@@ -31,3 +31,8 @@ elif option == "3":
         print("Termination canceled.")
 else:
     print("Invalid option. Please choose 1, 2, or 3.")
+
+    
+    #This code will present all of the instances in your AWS VPC
+    #Afterwards it will ask you for an action to do in those instances
+    #Start/stop/terminate the instances
